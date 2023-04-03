@@ -1,0 +1,59 @@
+body {
+  background-color: white;
+  background-image: url("../images/mountain1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+.foot {
+  background-color: rgb(114, 153, 171);
+  height: 50px;
+}
+
+hr {
+  border-style: none none dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #133e3e;
+  text-shadow: 3px 3px 5px;
+}
+
+h2 {
+  color: #2b4d4d;
+  text-shadow: 2px 2px 4px;
+}
+
+h3 {
+  color: #254242;
+  text-shadow: 1px 1px 3px;
+  display: inline;
+}
+
+.intro {
+  width: 100%;
+  background-color: rgb(33, 174, 174);
+  border-bottom-left-radius: 125px;
+  border-bottom-right-radius: 50px;
+  position: fixed;
+  top: 0;
+}
+
+.main {
+  position: relative;
+  top: 300px;
+  width: 100%;
+}
+
+.myimg {
+  float: left;
+  margin-right: 10px;
+}
+
+.name {
+  margin-top: 70px;
+}
